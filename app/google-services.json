@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791724440611",
+    "project_id": "campusbuzz-3f806",
+    "storage_bucket": "campusbuzz-3f806.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791724440611:android:e0256241ece57978b48596",
+        "android_client_info": {
+          "package_name": "com.example.campusbuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_3lNToNbF6AWAgcECgKo2yWCXOvmHXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
